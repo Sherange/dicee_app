@@ -1,7 +1,7 @@
 # Dice App
 
-<img  src="dice1.png" alt="dice1" width="40%"/>
-<img  src="dice2.png" alt="dice2" width="40%"/>
+<img  src="dice1.png" alt="dice1" width="20%"/>
+<img  src="dice2.png" alt="dice2" width="20%"/>
 
 Flutter Dice App
 
